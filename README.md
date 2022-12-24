@@ -4,7 +4,7 @@
 <h2>Making a main page of a furniture website</h2>
 
 <ul>
-    <li>work on "animated underline" and "sliding effect on button"</li>
+    <li>Work on "animated underline" and "sliding effect on button"</li>
     <li>Used HTML and CSS</li>
 
 </ul>
